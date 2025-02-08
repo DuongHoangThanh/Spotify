@@ -1,19 +1,10 @@
-//
-//  AppDelegate.swift
-//  Spotify
-//
-//  Created by Thạnh Dương Hoàng on 5/2/25.
-//
-
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
-
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        // Override point for customization after application launch.
+        
         return true
     }
 
