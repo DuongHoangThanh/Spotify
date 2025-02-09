@@ -30,6 +30,7 @@ playground.xcworkspace
 # .swiftpm
 
 .build/
+/Managers/AuthManager.swift
 
 # CocoaPods
 #
