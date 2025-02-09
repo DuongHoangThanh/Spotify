@@ -49,6 +49,5 @@ class AuthViewController: UIViewController, WKNavigationDelegate {
                 self?.completionHandler?(success)
             }
         }
-        
     }
 }
